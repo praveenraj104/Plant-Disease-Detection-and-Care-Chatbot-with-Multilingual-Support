@@ -1,0 +1,1 @@
+# Plant-Disease-Detection-and-Care-Chatbot-with-Multilingual-Support
