@@ -42,7 +42,7 @@ An intelligent, multilingual chatbot web application that helps farmers and plan
 | Voice I/O  | Web Speech API (JavaScript STT + TTS) |
 
 ---
-![WhatsApp Image 2025-08-02 at 21 24 21_3223593b](https://github.com/user-attachments/assets/dbdcfc4c-c62e-4ee2-9f56-68d625c9c257)
+<img width="1920" height="938" alt="Screenshot 2025-05-13 171126111" src="https://github.com/user-attachments/assets/46c58d8f-430c-4d99-8354-34a957f11869" />
 
 ![WhatsApp Image 2025-08-02 at 21 24 42_e9ee1135](https://github.com/user-attachments/assets/8e6f5d77-22da-43ab-8baf-ba36f27371fb)
 
